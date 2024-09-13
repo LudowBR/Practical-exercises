@@ -1,0 +1,1 @@
+Each file itself is an exercise. They are divided by letters while they will basically deal with different things, such as basic operations to decision structure. In the files themselves there is what the exercise proposes, as a commentary (In Portuguese, my native language.)
